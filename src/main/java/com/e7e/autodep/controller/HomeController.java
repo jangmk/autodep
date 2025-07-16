@@ -15,6 +15,6 @@ public class HomeController {
 
 	@GetMapping
 	public String home() {
-		return "E7E Good Good Good";
+		return "Where Is a Good Man";
 	}
 }
